@@ -8,9 +8,10 @@ I am a Control and Software Engineer with a profound interest in .NET-based back
 - **Specialization**: Backend development utilizing .NET technologies, control systems, and automation
 
 ### Technical Proficiencies
-- **Programming Languages**: C#, ASP.NET Core, JavaScript, Python
-- **Frameworks**: .NET Core, Entity Framework, SignalR
-- **Tools and Technologies**: Git
+- **Programming Languages**: C, C++, C#
+- **Scripting Languages**: Javascript, Python
+- **Frameworks**: .NET
+- **Tools and Technologies**: Git, Azure
 - **Databases**: SQL Server
 - **Additional Skills**: Control systems design
 
