@@ -1,4 +1,4 @@
-## Greetings,
+## Greetings
 
 I am a Control and Software Engineer with a profound interest in .NET-based backend programming.
 
@@ -19,5 +19,5 @@ I am a Control and Software Engineer with a profound interest in .NET-based back
 - **Current Learning**: Persian art, architecture, literature, and music
 - **Discussion Topics**: Control systems, backend development, or any technology-related subjects
 
-I look forward to connecting with .NET experts, especially those residing in Iran, Turkey, and the UAE.
+We look forward to connecting with .NET experts, especially those residing in Iran, Turkey, and the UAE. Contact us at [VORN](mailto:hi@vorn.ir).
 ---
