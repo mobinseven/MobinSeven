@@ -16,8 +16,10 @@ I am a Control and Software Engineer with a profound interest in .NET-based back
 - **Additional Skills**: Control systems design
 
 ### Personal Interests
-- **Current Learning**: Persian art, architecture, literature, and music
-- **Discussion Topics**: Control systems, backend development, or any technology-related subjects
+- **Architecture**: Old Persian architecture which peaked in Achaemenid era (550 B.C.)
+- **Music**: Persian music especially barbud (or lute) which I'am trying to learn, Kiasmos 
+- **Literature**: The Shahnameh (The book of kings), Hafez (the original Lisan al Gaib), and Mehdi Akhavan-Sales (1929-1990)
+- **Painting**: Leopold Schmutzler style, Milo Menara style, and many more
 
 We look forward to connecting with .NET experts, especially those residing in Iran, Turkey, and the UAE. Contact us at [VORN](mailto:hi@vorn.ir).
 ---
