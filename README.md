@@ -21,5 +21,4 @@ I am a Control and Software Engineer with a profound interest in .NET-based back
 - **Literature**: The Shahnameh (The book of kings), Hafez (the original Lisan al Gaib), and Mehdi Akhavan-Sales (1929-1990)
 - **Painting**: Leopold Schmutzler style, Milo Menara style, and many more
 
-We look forward to connecting with .NET experts, especially those residing in Iran, Turkey, and the UAE. Contact us at [VORN](mailto:hi@vorn.ir).
 ---
