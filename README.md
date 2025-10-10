@@ -18,7 +18,7 @@ I am a Control and Software Engineer with a profound interest in .NET-based back
 ### Personal Interests
 - **Architecture**: Old Persian architecture which peaked in Achaemenid era (550 B.C.)
 - **Music**: Persian music especially barbud (or lute) which I'am trying to learn, Kiasmos 
-- **Literature**: The Shahnameh (The book of kings), Hafez (the original Lisan al Gaib), and Mehdi Akhavan-Sales (1929-1990)
+- **Literature**: The Shahnameh (The great Ferdowsi), Hafez (the original Lisan al Gaib), and Mehdi Akhavan-Sales (1929-1990)
 - **Painting**: Leopold Schmutzler style, Milo Menara style, and many more
 
 ---
